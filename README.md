@@ -25,11 +25,22 @@ As the **Co-Founder of [QudSystem](https://qud-systm.netlify.app/) and QudSchool
 
 ---
 
+### 🏆 Featured Projects & Contributions
+
+| 🛡️ Security & AI Agents | 🌟 Advanced Dev Tools |
+| :--- | :--- |
+| **[Cyber-AutoAgent](https://github.com/hussamgalal999/Cyber-AutoAgent)**<br/>AI agent for autonomous cyber operations | **[Mimo-cli-max](https://github.com/hussamgalal999/mimo-cli-max)**<br/>Agentic coding tool in your terminal (like Claude Code) |
+| **[Openclaw](https://github.com/hussamgalal999/openclaw)**<br/>Your own personal AI assistant. Any OS. Any Platform. | **[AgentGPT](https://github.com/hussamgalal999/AgentGPT)**<br/>Assemble, configure, deploy autonomous AI Agents |
+| **[DeepCode](https://github.com/hussamgalal999/DeepCode)**<br/>Open Agentic Coding (Paper2Code & Text2Web / Backend) | **[Awesome-ai-dev-tools](https://github.com/hussamgalal999/awesome-ai-dev-tools)**<br/>Curated list of powerful AI-powered dev tools |
+| **[ProtectX](https://github.com/hussamgalal999/ProtectX)**<br/>Cutting-edge cybersecurity solution to safeguard digital life | **[GammaX](https://github.com/hussamgalal999/GammaX)**<br/>AI Presentation Generator like Gamma AI for modern PPTX |
+| **[Qudpro-connectivity-v003](https://github.com/hussamgalal999/qudpro-connectivity-v003)**<br/>Advanced enterprise connectivity solution | **[ATS_CV-Resume-Builder](https://github.com/hussamgalal999/ATS_CV-Resume-Builder)**<br/>Build professional, ATS-optimized resumes |
+
+---
+
 ### 🧰 The Arsenal (Tech Stack & Tools)
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <!-- Comprehensive icon set combining dev and sec tools -->
     <img src="https://skillicons.dev/icons?i=python,java,cpp,bash,linux,kali,docker,aws,git,github,vscode,kubernetes,react,nodejs,mongodb,postman&theme=dark" alt="Skill Icons"/>
   </a>
 </p>
@@ -39,10 +50,8 @@ As the **Co-Founder of [QudSystem](https://qud-systm.netlify.app/) and QudSchool
 ### 📊 The Data Behind the Code
 
 <div align="center">
-  <p float="left">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hussamgalal999&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&icon_color=00FF99&title_color=00FF99" alt="Hossam's Status" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hussamgalal999&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF99" alt="Top Langs" />
-  </p>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hussamgalal999&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&icon_color=00FF99&title_color=00FF99" alt="Hossam's Status" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hussamgalal999&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF99" alt="Top Langs" />
 </div>
 
 <br>
@@ -58,16 +67,16 @@ As the **Co-Founder of [QudSystem](https://qud-systm.netlify.app/) and QudSchool
 Whether you're looking to consult on security, build a scalable application, or just want to talk tech and startups, my inbox is always open.
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/hossam-galal%F0%9F%94%BB%F0%9F%87%B5%F0%9F%87%B8-2b65ba170/" target="blank">
+  <a href="https://www.linkedin.com/in/hossam-galal%F0%9F%94%BB%F0%9F%87%B5%F0%9F%87%B8-2b65ba170/" target="_blank">
     <img align="center" src="https://img.shields.io/badge/-LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://hussamgalal999.github.io/" target="blank">
+  <a href="https://hussamgalal999.github.io/" target="_blank">
     <img align="center" src="https://img.shields.io/badge/-Portfolio-333333?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
   </a>
-  <a href="https://qud-systm.netlify.app/" target="blank">
+  <a href="https://qud-systm.netlify.app/" target="_blank">
     <img align="center" src="https://img.shields.io/badge/-QudSystem-00FF99?style=for-the-badge&logo=QudSystem&logoColor=black" alt="QudSystem" />
   </a>
-  <a href="mailto:kushagra20103@gmail.com" target="blank">
+  <a href="mailto:kushagra20103@gmail.com" target="_blank">
     <img align="center" src="https://img.shields.io/badge/-Email-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
