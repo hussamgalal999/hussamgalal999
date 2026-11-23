@@ -27,13 +27,15 @@ As the **Co-Founder of [QudSystem](https://qud-systm.netlify.app/) and QudSchool
 
 ### 🏆 Featured Projects & Contributions
 
-| 🛡️ Security & AI Agents | 🌟 Advanced Dev Tools |
+| 🛡️ Security & AI | 🌟 Advanced Dev Tools |
 | :--- | :--- |
-| **[Cyber-AutoAgent](https://github.com/hussamgalal999/Cyber-AutoAgent)**<br/>AI agent for autonomous cyber operations | **[Mimo-cli-max](https://github.com/hussamgalal999/mimo-cli-max)**<br/>Agentic coding tool in your terminal (like Claude Code) |
-| **[Openclaw](https://github.com/hussamgalal999/openclaw)**<br/>Your own personal AI assistant. Any OS. Any Platform. | **[AgentGPT](https://github.com/hussamgalal999/AgentGPT)**<br/>Assemble, configure, deploy autonomous AI Agents |
-| **[DeepCode](https://github.com/hussamgalal999/DeepCode)**<br/>Open Agentic Coding (Paper2Code & Text2Web / Backend) | **[Awesome-ai-dev-tools](https://github.com/hussamgalal999/awesome-ai-dev-tools)**<br/>Curated list of powerful AI-powered dev tools |
-| **[ProtectX](https://github.com/hussamgalal999/ProtectX)**<br/>Cutting-edge cybersecurity solution to safeguard digital life | **[GammaX](https://github.com/hussamgalal999/GammaX)**<br/>AI Presentation Generator like Gamma AI for modern PPTX |
-| **[Qudpro-connectivity-v003](https://github.com/hussamgalal999/qudpro-connectivity-v003)**<br/>Advanced enterprise connectivity solution | **[ATS_CV-Resume-Builder](https://github.com/hussamgalal999/ATS_CV-Resume-Builder)**<br/>Build professional, ATS-optimized resumes |
+| **[QudSystem](https://github.com/hussamgalal999/QudSystem-software-company)**<br/>Pioneering Tech, AI & Cybersecurity Solutions | **[Mimo-cli-max](https://github.com/hussamgalal999/mimo-cli-max)**<br/>Agentic coding tool in your terminal (like Claude Code) |
+| **[ProtectX](https://github.com/hussamgalal999/ProtectX)**<br/>Cutting-edge cybersecurity solution to safeguard digital life | **[repo-health-check](https://github.com/hussamgalal999/repo-health-check)**<br/>Dependency-free CLI for checking open-source repository readiness |
+| **[Kenzy-AI](https://github.com/hussamgalal999/Kenzy-AI)**<br/>Kenzy AI Storybook | **[GammaX](https://github.com/hussamgalal999/GammaX)**<br/>AI Presentation Generator like Gamma AI for modern PPTX |
+| **[QudSystem Website](https://github.com/hussamgalal999/qudsystem-website)**<br/>Official QudSystem website, all versions | **[ATS_CV-Resume-Builder](https://github.com/hussamgalal999/ATS_CV-Resume-Builder)**<br/>Build professional, ATS-optimized resumes |
+
+### 🌍 Open Source Contributions
+- **[ai-microcore](https://github.com/Nayjest/ai-microcore)** — contributed a fix for duplicate LLM requests during tool-call checks ([#215](https://github.com/Nayjest/ai-microcore/pull/215))
 
 ---
 
