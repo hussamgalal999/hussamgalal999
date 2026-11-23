@@ -78,9 +78,6 @@ Whether you're looking to consult on security, build a scalable application, or 
   <a href="https://qud-systm.netlify.app/" target="_blank">
     <img align="center" src="https://img.shields.io/badge/-QudSystem-00FF99?style=for-the-badge&logo=QudSystem&logoColor=black" alt="QudSystem" />
   </a>
-  <a href="mailto:kushagra20103@gmail.com" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/-Email-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
 </p>
 
 <p align="center">
