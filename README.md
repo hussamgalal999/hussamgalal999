@@ -37,6 +37,7 @@ As the **Co-Founder of [QudSystem](https://qud-systm.netlify.app/) and QudSchool
 ### 🌍 Open Source Contributions
 - **[ai-microcore](https://github.com/Nayjest/ai-microcore)** — contributed a fix for duplicate LLM requests during tool-call checks ([#215](https://github.com/Nayjest/ai-microcore/pull/215))
 - **[ai-microcore](https://github.com/Nayjest/ai-microcore)** — fixed handling of assistant tool-call messages without content ([#219](https://github.com/Nayjest/ai-microcore/pull/219))
+- **[ai-microcore](https://github.com/Nayjest/ai-microcore)** — refreshed provider model presets for 6.10.1 ([#221](https://github.com/Nayjest/ai-microcore/pull/221))
 
 ---
 
