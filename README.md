@@ -39,6 +39,7 @@ As the **Co-Founder of [QudSystem](https://qud-systm.netlify.app/) and QudSchool
 - **[ai-microcore](https://github.com/Nayjest/ai-microcore)** — fixed handling of assistant tool-call messages without content ([#219](https://github.com/Nayjest/ai-microcore/pull/219))
 - **[ai-microcore](https://github.com/Nayjest/ai-microcore)** — refreshed provider model presets for 6.10.1 ([#221](https://github.com/Nayjest/ai-microcore/pull/221))
 - **[AgentTracer](https://github.com/MotifTechnologies/AgentTracer)** — made `export` fail fast on empty trajectory directories ([#91](https://github.com/MotifTechnologies/AgentTracer/pull/91))
+- **[AgentTracer](https://github.com/MotifTechnologies/AgentTracer)** — unknown dataset names now fail at config load instead of mid-run ([#94](https://github.com/MotifTechnologies/AgentTracer/pull/94))
 
 ---
 
