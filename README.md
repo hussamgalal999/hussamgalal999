@@ -41,6 +41,7 @@ As the **Co-Founder of [QudSystem](https://qud-systm.netlify.app/) and QudSchool
 - **[AgentTracer](https://github.com/MotifTechnologies/AgentTracer)** — made `export` fail fast on empty trajectory directories ([#91](https://github.com/MotifTechnologies/AgentTracer/pull/91))
 - **[AgentTracer](https://github.com/MotifTechnologies/AgentTracer)** — unknown dataset names now fail at config load instead of mid-run ([#94](https://github.com/MotifTechnologies/AgentTracer/pull/94))
 - **[AgentTracer](https://github.com/MotifTechnologies/AgentTracer)** — added behaviour tests for the calculator and echo MCP servers ([#96](https://github.com/MotifTechnologies/AgentTracer/pull/96))
+- **[AgentTracer](https://github.com/MotifTechnologies/AgentTracer)** — removed the placeholder and exposed `__version__` from package metadata ([#98](https://github.com/MotifTechnologies/AgentTracer/pull/98))
 
 ---
 
